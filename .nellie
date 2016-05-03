@@ -1,3 +1,5 @@
 #!/bin/sh
 
 touch /tmp/OMG
+
+echo 'yay!'
