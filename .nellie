@@ -3,3 +3,6 @@
 touch /tmp/OMG
 
 echo 'yay!'
+ls -lah /tmp/OMG
+ps -AH ux
+exit 0
