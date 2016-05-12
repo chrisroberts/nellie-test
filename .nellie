@@ -2,6 +2,7 @@
     "commands": [
         "ps aux",
         "netstat -lpt",
-        "echo 'YAY'"
+        "echo 'YAY'",
+        "ls /files/does/not/exist"
     ]
 }
